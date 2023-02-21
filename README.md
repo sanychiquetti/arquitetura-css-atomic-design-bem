@@ -11,4 +11,4 @@ E já aplicando Media Queries para mobile e telas maiores como pc.
 
 Endereço do site:
 
-<link href="https://sanychiquetti.github.io/arquitetura-css-atomic-design-bem/">
+<a href="https://sanychiquetti.github.io/arquitetura-css-atomic-design-bem/"></a>
